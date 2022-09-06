@@ -43,6 +43,26 @@ This table create a view for the important cities to visit, location details and
 
 
 
+---
+### Code Fencing ###
+
+>KeyboardEvent Value (keyCodes, metaKey, etc): 
+[more](https://css-tricks.com/snippets/javascript/)
+
+
+
+``` 
+document.addEventListener("keydown", function(event) {
+  console.log(event.which);
+})
+
+
+
+```
+[moredetails](https://css-tricks.com/snippets/javascript/javascript-keycodes/)
+
+
+
 
 
 
