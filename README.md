@@ -34,6 +34,15 @@ This table create a view for the important cities to visit, location details and
 |Jaipur | Pink City | 4 days |
 | Goa | Goa Beaches | 4 days |
 
+---
+
+
+> Meaning is not what you START with, But what you END Up with *- Peter Elbow*
+
+>Always remember that you are absolutely unique. Just like everyone else.  *- Margaret Mead*
+
+
+
 
 
 
