@@ -23,6 +23,17 @@ The **Vintage and Classic Car Museum**, or Vintage & Classic Car Collection was 
 
 - On the stunning bank of Lake Pichola, you can take a quick boat ride and explore the surroundings.
 
+---
+
+This table create a view for the important cities to visit, location details and the time to spend over their to refresh youself
+
+| City | Place to visit | Spend time | 
+|-----------|:-----------:|-----------:|
+| Agra | Taj Mahal     | 1 day        |
+| Bangalore| Mysore Palace | 1 day |
+|Jaipur | Pink City | 4 days |
+| Goa | Goa Beaches | 4 days |
+
 
 
 
