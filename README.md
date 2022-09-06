@@ -13,4 +13,15 @@ The **Vintage and Classic Car Museum**, or Vintage & Classic Car Collection was 
  2. Visitors can reach here by personal vehicle or by Taxi from airport  to the main entrance to the Gulab Bagh and Zoo.
  3. Museum is just a walk of 200mts opposite to zoo. 
 
+ #### Places to visit near Vintage and Classic Car Museum
+
+ - Lake Palace, also known as Jag Niwas, is one of the most gorgeous and famous Palace nearby.
+
+- Situated on the banks of Lake Pichola, City Palace is yet another palace offering exquisite beauty.
+
+- Saheliyon ki Bari also called the Garden of Maidens, is a vast garden designed for the Queen of Rana Sangha and his maidens.
+
+- On the stunning bank of Lake Pichola, you can take a quick boat ride and explore the surroundings.
+
+
 
